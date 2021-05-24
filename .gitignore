@@ -1,0 +1,5 @@
+#Files excluded from the upload
+/shelf/
+/workspace.xml
+*.iml
+/.idea/
